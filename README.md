@@ -53,6 +53,3 @@ Are there any cities that are outliers in the training set? Which outlier have y
 
 Yes, there are two cities that are outliers in the training set; Cheyenne and Gillette. By conducting two different experiments, I would choose to remove the outlier data of the Gillette city. The essential reasons are that Cheyenne is not an outlier but rather a big urban city where high population density results in possible huge sales. In addition, Gillette is a true outlier as its demographic numbers are within the standard range, yet the sales of Pawdacity are high, and thereby, we could conclude that Gillette is an outlier.
 
-Before you Submit
-
-Please check your answers against the requirements of the project dictated by the [rubric](https://review.udacity.com/#!/rubrics/382/view) here. Reviewers will use this rubric to grade your project.
